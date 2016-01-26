@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThor", "PowerOfThor\PowerOfThor.csproj", "{78F5BFE3-6B51-465E-A685-5B7A7435403D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDescent", "TheDescent\TheDescent.csproj", "{7F98209E-159F-456D-A115-D3B497C676D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkynetTheChasm", "SkynetTheChasm\SkynetTheChasm.csproj", "{785FD32F-1412-45B5-99D2-FE3490DE3476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F5BFE3-6B51-465E-A685-5B7A7435403D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F5BFE3-6B51-465E-A685-5B7A7435403D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F5BFE3-6B51-465E-A685-5B7A7435403D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F5BFE3-6B51-465E-A685-5B7A7435403D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F98209E-159F-456D-A115-D3B497C676D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F98209E-159F-456D-A115-D3B497C676D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F98209E-159F-456D-A115-D3B497C676D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F98209E-159F-456D-A115-D3B497C676D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785FD32F-1412-45B5-99D2-FE3490DE3476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785FD32F-1412-45B5-99D2-FE3490DE3476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785FD32F-1412-45B5-99D2-FE3490DE3476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785FD32F-1412-45B5-99D2-FE3490DE3476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
